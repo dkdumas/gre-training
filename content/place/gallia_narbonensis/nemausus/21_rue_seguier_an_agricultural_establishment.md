@@ -5,20 +5,12 @@ type: garden
 title: "21, rue Séguier, An Agricultural Establishment"
 latlon: [ 42.439512, 3.176623 ]
 author: Eric Morvillez, Emilie Chassillan
-contributor: Yichen Liu
+contributor: Yichen Liu, Divya Kumar-Dumas
 date: 2021-04-21
 modified: 2025-06-29
-draft: true
+draft: false
 ---
 
-## Province
-
-- [Gallia_narbonensis]({{<relref "..">}})
-- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
-
-## Province Description
-
-Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
 ## Location
 
@@ -38,6 +30,8 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - {{< keyword "amphorae" >}}
 - {{< keyword "flowerpots" >}}
 - {{< keyword "porticoes" >}}
+- {{< keyword "dolia" >}}
+
 
 ## House Description
 
