@@ -1,19 +1,21 @@
 ---
-gre_id: 3dadb93d13
-aliases: [/id/3dadb93d13]
+gre_id: dce929afd4
+aliases: [/id/dce929afd4]
 type: place
-title: Benalmadena Costa
+title: Corsica
 latlon: [ 0, 0 ]
 author: Author Name
 contributor: Contributor Name
-date: 2025-07-15
-modified: 2025-07-15
+date: 2025-07-12
+modified: 2025-07-12
 draft: true
 ---
 
-<!-- ## Dates -->
+## Dates
+<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
-## Place Description
+## Province Description
+<!-- This is the main text describing the garden -->
 
 <!--
 ## Maps
@@ -42,6 +44,7 @@ draft: true
 
 <!--
 ## Places
+places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
